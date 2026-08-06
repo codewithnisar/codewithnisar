@@ -90,7 +90,7 @@ root@CodeWithNisar:~$ whoami
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,tailwind,bootstrap,git,github,vscode,figma,npm"/>
 </p>
-### 📊 **Skill Proficiency**
+📊 Skill Proficiency
 
 <p align="center">
   <table>
@@ -113,6 +113,7 @@ root@CodeWithNisar:~$ whoami
     </tr>
   </table>
 </p>
+
 
 ---
 
